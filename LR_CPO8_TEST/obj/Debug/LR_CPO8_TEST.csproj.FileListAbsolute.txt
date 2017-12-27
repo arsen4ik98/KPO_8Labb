@@ -1,0 +1,9 @@
+C:\Users\Andrey\Desktop\documents\visual studio 2013\Projects\LR_CPO8\LR_CPO8_TEST\bin\Debug\LR_CPO8_TEST.dll
+C:\Users\Andrey\Desktop\documents\visual studio 2013\Projects\LR_CPO8\LR_CPO8_TEST\bin\Debug\LR_CPO8_TEST.pdb
+C:\Users\Andrey\Desktop\documents\visual studio 2013\Projects\LR_CPO8\LR_CPO8_TEST\bin\Debug\LR_CPO8.exe
+C:\Users\Andrey\Desktop\documents\visual studio 2013\Projects\LR_CPO8\LR_CPO8_TEST\bin\Debug\nunit.framework.dll
+C:\Users\Andrey\Desktop\documents\visual studio 2013\Projects\LR_CPO8\LR_CPO8_TEST\bin\Debug\LR_CPO8.pdb
+C:\Users\Andrey\Desktop\documents\visual studio 2013\Projects\LR_CPO8\LR_CPO8_TEST\bin\Debug\nunit.framework.xml
+C:\Users\Andrey\Desktop\documents\visual studio 2013\Projects\LR_CPO8\LR_CPO8_TEST\obj\Debug\LR_CPO8_TEST.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\documents\visual studio 2013\Projects\LR_CPO8\LR_CPO8_TEST\obj\Debug\LR_CPO8_TEST.dll
+C:\Users\Andrey\Desktop\documents\visual studio 2013\Projects\LR_CPO8\LR_CPO8_TEST\obj\Debug\LR_CPO8_TEST.pdb
